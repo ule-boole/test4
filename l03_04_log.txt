@@ -1,0 +1,24 @@
+  787  cat 04.gitignore
+  788  cat 04.gitignore
+  789  git status
+  790  git init
+  791  git status
+  792  git add -A
+  793  git commit -m Create script_04.py
+  794  git push origin master
+  795  git remote
+  796  git remote add
+  797  git remote add --master origin https://github.com/ule-boole/test4.git
+  798  git remote add  origin https://github.com/ule-boole/test4.git
+  799  git push -u origin master
+  800  ls
+  801  git status
+  802  cat 04.gitignore
+  803  git log
+  804  touch l03_04_log.txt
+  805  lpg
+  806  lpg
+  807  log
+  808  history
+
+https://github.com/ule-boole/test4
